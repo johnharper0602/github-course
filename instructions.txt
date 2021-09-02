@@ -1,3 +1,7 @@
 Instructions contained in this file (To be updated) [started updating]
 
 Updated Line 3 in Github itself
+
+Troubleshooting
+---------------
+
