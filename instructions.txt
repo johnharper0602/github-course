@@ -4,6 +4,3 @@ Updated Line 3 in Github itself
 
 Installation on IIS
 -------------------
-
-Fill in Instructions here!
-
